@@ -17,6 +17,7 @@
     "gulp-less": "^3.3.0",
     "gulp-uglify": "^2.0.0"
   },
+  //test
   "dependencies": {
     "gulp": "^3.9.1"
   },
